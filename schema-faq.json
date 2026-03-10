@@ -1,0 +1,30 @@
+{
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "Czy trzeba się przygotować do wizyty?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Nie jest wymagane specjalne przygotowanie."
+}
+},
+{
+"@type": "Question",
+"name": "Ile trwa wizyta?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Zazwyczaj od 15 do 60 minut."
+}
+},
+{
+"@type": "Question",
+"name": "Czy zabiegi są dla dzieci?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Tak, wybrane zabiegi mogą być wykonywane u dzieci."
+}
+}
+]
+}
