@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gabinetmocnatury.github.io/sitemap.xml
+Sitemap: https://gabinetmocnatury.pl/sitemap.xml
