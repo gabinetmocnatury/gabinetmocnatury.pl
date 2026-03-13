@@ -2,7 +2,7 @@
 "@context":"https://schema.org",
 "@type":"MedicalBusiness",
 "name":"Gabinet MOC NATURY",
-"url":"https://gabinetmocnatury.github.io",
+"url":"https://gabinetmocnatury.pl",
 "telephone":"+48662748489",
 "address":{
 "@type":"PostalAddress",
